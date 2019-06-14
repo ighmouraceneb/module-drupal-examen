@@ -1,0 +1,5 @@
+file_upload.linkfileupload:
+  title: File upload
+  description: 'File upload form'
+  parent: system.admin_content
+  route_name: file_upload_form
